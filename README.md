@@ -183,7 +183,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aabhirup Paul](https://github.com/paul-abhirup)
   - [Aakruti Kalia](https://github.com/akku-07)
   - [Anshika Saini](https://github.com/Anshikaa-Saini)
- -  [Anushree mehta](https://github.com/anushreemehta6)
+  - [Anushree mehta](https://github.com/anushreemehta6)
   - [Aryan Karamtoth](https://github.com/spaciouscoder78)
   - [Amrutha](https://github.com/AmruthaPariprolu)
   - [Anushka Joshi](https://github.com/ajoshi30)
@@ -215,12 +215,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **F**
-  - [ Fenil Patel ] (https://github.com/fenil-ptl)
+  - [ Fenil Patel ](https://github.com/fenil-ptl)
 | [`Back To Top`](#contents) |
 
 - ### **G**
   - [Gssoc](https://github.com/GSS0C24)
-  - [Goldy Patel] (https://github.com/Goldypatel)
+  - [Goldy Patel](https://github.com/Goldypatel)
 | [`Back To Top`](#contents) |
 
 - ### **H**
@@ -249,7 +249,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **M**
   - Me
   - [Maryam Mohamed Yahya](https://github.com/MaryamMohamedYahya)
-  - Mihir Phalke (https://github.com/mihirphalke1)
+  - [Mihir Phalke](https://github.com/mihirphalke1)
 | [`Back To Top`](#contents) |
 
 - ### **N**
@@ -275,9 +275,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **R**
-  - 
+  - [Riya ](https://github.com/Riya-221)
 | [`Back To Top`](#contents) |
-[Riya ](https://github.com/Riya-221)
+
 
  - ### **S**
     - [Shivathmika ](https://github.com/shivathmikavemula)
@@ -320,8 +320,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 | [`Back To Top`](#contents) |
 
 - ### **Z**
-  - 
-|- [Zeba](https://github.com/zeba62) |
+  - [Zeba](https://github.com/zeba62)
+| [`Back To Top`](#contents) |
 ## Our Pledge
 
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
